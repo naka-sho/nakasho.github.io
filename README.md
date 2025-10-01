@@ -1,2 +1,3 @@
 # nakasho.github.io
-んぷ
+
+自己紹介公開
